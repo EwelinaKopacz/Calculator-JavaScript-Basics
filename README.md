@@ -1,5 +1,6 @@
-# Project JS Basics - calculator 
+# JS Basics - Calculator Project
 
+## About the project:
 My first project in JavaScript. Using existing code, I had to add a functionality like basics math operations:
 * (+)
 * (-)
@@ -7,13 +8,17 @@ My first project in JavaScript. Using existing code, I had to add a functionalit
 * (/)
 * (^)
 
+## How to use it
+Please visit the website below and follow the instruction to see how calculator works.
 
 ## Technologies:
-
 * JavaScript
 
+## Links
+* Live Site URL: [E.Kopacz JS Basics Calculator Project](https://ekopacz-js-calculator-project.netlify.app)
+
 ## Solutions
-Creating this project I had a opportunity to practice: 
+Creating this project I had an opportunity to practice: 
 * creating and using function in JS,
 * creating and using loops in JS,
 * creating and using if…else Statements in JS 
@@ -21,10 +26,16 @@ Creating this project I had a opportunity to practice:
 * how to use 'this' keyword in JS
 * what is  'code refactoring' and why it is important
 
+### Project preview
+
+Examples of calculations with history
+![Project-preview](./assets/preview/screen1.png)
+
+Dividing by zero
+![Project-preview](./assets/preview/screen2.png)
 
 ### Feel free to contact me:
+* [Linkedin](https://www.linkedin.com/in/ewelina-kopacz-929559100/) - Ewelina Kopacz
 
-* [Linkedin](https://www.linkedin.com/in/ewelina-kopacz-929559100/)
-
-### Project is base on Mateusz Bogolubow code 
-* See: https://github.com/devmentor-pl
+### Thanks for project and support to Mateusz Bogolubow:
+* Mentor i Trener Programowania JavaScript - [DevMentor](https://devmentor.pl/) - Mateusz Bogolubow
