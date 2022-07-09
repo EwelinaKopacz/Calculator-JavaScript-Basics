@@ -1,6 +1,16 @@
 # JS Basics - Calculator Project
 
-## About the project:
+## Table of Contents
+1. [About the project](#about-the-project)
+2. [How to use it](#how-to-use-it)
+3. [Technologies](#technologies)
+4. [Links](#links)
+5. [Solutions](#solutions)
+6. [Project preview](#project-preview)
+7. [Contact](#feel-free-to-contact-me)
+8. [Thanks](#thanks-for-project-and-support-to-Mateusz-Bogolubow)
+
+## About the project
 My first project in JavaScript. Using existing code, I had to add a functionality like basics math operations:
 * (+)
 * (-)
@@ -11,7 +21,7 @@ My first project in JavaScript. Using existing code, I had to add a functionalit
 ## How to use it
 Please visit the website below and follow the instruction to see how calculator works.
 
-## Technologies:
+## Technologies
 * JavaScript
 
 ## Links
@@ -27,7 +37,6 @@ Creating this project I had an opportunity to practice:
 * what is  'code refactoring' and why it is important
 
 ### Project preview
-
 Examples of calculations with history
 ![Project-preview](./assets/preview/screen1.png)
 
